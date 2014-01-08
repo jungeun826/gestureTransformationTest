@@ -21,6 +21,7 @@
 		00F195CB187CE5BE004B4A92 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 00F195AD187CE5BE004B4A92 /* UIKit.framework */; };
 		00F195D3187CE5BE004B4A92 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 00F195D1187CE5BE004B4A92 /* InfoPlist.strings */; };
 		00F195D5187CE5BE004B4A92 /* gestureTransformationTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00F195D4187CE5BE004B4A92 /* gestureTransformationTestTests.m */; };
+		00F195DF187CE60A004B4A92 /* ball.png in Resources */ = {isa = PBXBuildFile; fileRef = 00F195DE187CE60A004B4A92 /* ball.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		00F195D0187CE5BE004B4A92 /* gestureTransformationTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "gestureTransformationTestTests-Info.plist"; sourceTree = "<group>"; };
 		00F195D2187CE5BE004B4A92 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		00F195D4187CE5BE004B4A92 /* gestureTransformationTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = gestureTransformationTestTests.m; sourceTree = "<group>"; };
+		00F195DE187CE60A004B4A92 /* ball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		00F195AF187CE5BE004B4A92 /* gestureTransformationTest */ = {
 			isa = PBXGroup;
 			children = (
+				00F195DE187CE60A004B4A92 /* ball.png */,
 				00F195B8187CE5BE004B4A92 /* AppDelegate.h */,
 				00F195B9187CE5BE004B4A92 /* AppDelegate.m */,
 				00F195BB187CE5BE004B4A92 /* Main.storyboard */,
@@ -230,6 +233,7 @@
 			files = (
 				00F195C2187CE5BE004B4A92 /* Images.xcassets in Resources */,
 				00F195B4187CE5BE004B4A92 /* InfoPlist.strings in Resources */,
+				00F195DF187CE60A004B4A92 /* ball.png in Resources */,
 				00F195BD187CE5BE004B4A92 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
